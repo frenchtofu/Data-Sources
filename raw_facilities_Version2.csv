@@ -59,5 +59,45 @@ F1056,Facility Saint 56,Clinic,13.451234,"116.0,126.0",10,1990-02-02,,contact56@
 F1057,Facility Nueva 57,Rural Health Unit,7.654321,124.654321,unknown,2002-07-07,+639178233000,contact57@health.ph,,
 F1058,Facility Bayan 58,Barangay Health Station,16.222222,120.333333,5,03/05/2018,,contact58@health.ph,no ambulance,
 F1059,Facility Lapulapu 59,Clinic,11.111111,123.111111,20,2010-10-10,+639178333000,contact59@health.ph,,
+F1060,Facility Santo 60,Hospital,14.550000,120.990000,100,1987-03-15,+639178433000,contact60@health.ph,24/7 emergency,N/A
+F1061,Facility Bagong 61,Clinic,10.250000,122.880000,15,15/04/2008,+639178533000,contact61@health.ph,new building,unknown
+F1062,Facility Maligaya 62,Rural Health Unit,7.890000,125.340000,25,2003-07-20,,contact62@health.ph,limited hours,data_pending
+F1063,Facility San 63,Barangay Health Station,6.780000,119.450000,5,2011-11-11,+639178633000,,donor funded,
+F1064,Facility Saint 64,Clinic,16.450000,120.670000,10,2001-05-05,,contact64@health.ph,temporary closure,unknown
+F1065,Facility Nueva 65,Hospital,9.560000,123.220000,75,1989-08-25,+639178733000,contact65@health.ph,teaching hospital,
+F1066,Facility Bayan 66,Clinic,13.670000,121.450000,20,22/09/2016,+639178833000,contact66@health.ph,no ambulance,N/A
+F1067,Facility Lapulapu 67,Rural Health Unit,11.330000,124.560000,15,2009-02-14,,contact67@health.ph,bridge nearby,
+F1068,Facility Santo 68,Barangay Health Station,5.890000,119.770000,5,1993-12-01,+639178933000,contact68@health.ph,seasonal closure,data_pending
+F1069,Facility Bagong 69,Clinic,17.120000,121.340000,10,2014-06-18,,contact69@health.ph,,unknown
+F1070,Facility Maligaya 70,Hospital,14.380000,120.780000,50,1999-10-30,+639178043000,contact70@health.ph,limited hours,N/A
+F1071,Facility San 71,Clinic,12.560000,125.780000,10,2017-03-22,+639178143000,,donor funded,
+F1072,Facility Saint 72,Rural Health Unit,8.450000,118.990000,20,07/11/2004,,contact72@health.ph,no ambulance,data_pending
+F1073,Facility Nueva 73,Barangay Health Station,15.670000,120.560000,5,2012-09-05,+639178243000,contact73@health.ph,temporary closure,N/A
+F1074,Facility Bayan 74,Clinic,14.120000,121.230000,15,2006-01-28,,contact74@health.ph,,unknown
+F1075,Facility Lapulapu 75,Hospital,6.340000,122.110000,100,1986-04-12,+639178343000,contact75@health.ph,regional referral,
+F1076,Facility Santo 76,Clinic,10.780000,123.560000,10,18/08/2015,+639178443000,contact76@health.ph,limited hours,
+F1077,Facility Bagong 77,Rural Health Unit,11.890000,124.890000,20,2008-11-20,,contact77@health.ph,bridge nearby,data_pending
+F1078,Facility Maligaya 78,Barangay Health Station,16.890000,121.120000,5,1995-07-16,+639178543000,contact78@health.ph,seasonal closure,N/A
+F1079,Facility San 79,Clinic,6.120000,116.340000,10,2013-05-09,,contact79@health.ph,,
+F1080,Facility Saint 80,Hospital,14.230000,120.670000,75,1988-02-28,+639178643000,contact80@health.ph,donor funded,unknown
+F1081,Facility Nueva 81,Clinic,13.450000,121.890000,20,2019-12-15,,contact81@health.ph,temporary closure,
+F1082,Facility Bayan 82,Rural Health Unit,7.560000,124.450000,15,25/06/2005,+639178743000,contact82@health.ph,limited hours,data_pending
+F1083,Facility Lapulapu 83,Barangay Health Station,10.340000,123.780000,5,2011-08-30,,contact83@health.ph,no ambulance,N/A
+F1084,Facility Santo 84,Clinic,15.450000,120.120000,10,1996-10-10,+639178843000,,,unknown
+F1085,Facility Bagong 85,Hospital,13.120000,121.340000,50,2004-03-18,+639178943000,contact85@health.ph,bridge nearby,
+F1086,Facility Maligaya 86,Clinic,9.230000,124.120000,10,12/07/2007,,contact86@health.ph,seasonal closure,
+F1087,Facility San 87,Rural Health Unit,8.780000,124.670000,20,2015-11-25,+639178053000,contact87@health.ph,limited hours,data_pending
+F1088,Facility Saint 88,Barangay Health Station,16.340000,120.890000,5,2002-04-14,,contact88@health.ph,donor funded,N/A
+F1089,Facility Nueva 89,Clinic,6.890000,119.120000,15,1997-09-07,+639178153000,contact89@health.ph,,unknown
+F1090,Facility Bayan 90,Hospital,14.910000,120.450000,100,1984-12-20,+639178253000,contact90@health.ph,temporary closure,
+F1091,Facility Lapulapu 91,Clinic,11.780000,125.340000,10,2016-02-28,,contact91@health.ph,no ambulance,
+F1092,Facility Santo 92,Rural Health Unit,13.230000,121.560000,20,08/10/2009,+639178353000,contact92@health.ph,limited hours,data_pending
+F1093,Facility Bagong 93,Barangay Health Station,7.120000,125.230000,5,2013-07-05,,contact93@health.ph,,N/A
+F1094,Facility Maligaya 94,Clinic,15.780000,120.230000,10,2001-11-19,+639178453000,contact94@health.ph,bridge nearby,unknown
+F1095,Facility San 95,Hospital,12.340000,122.120000,75,1992-05-22,+639178553000,,seasonal closure,
+F1096,Facility Saint 96,Clinic,9.670000,123.450000,20,2018-09-13,+639178653000,contact96@health.ph,donor funded,
+F1097,Facility Nueva 97,Rural Health Unit,8.450000,124.780000,15,20/03/2006,,contact97@health.ph,limited hours,data_pending
+F1098,Facility Bayan 98,Barangay Health Station,16.560000,120.670000,5,2010-06-08,+639178753000,contact98@health.ph,temporary closure,
+F1099,Facility Lapulapu 99,Clinic,6.230000,119.890000,10,2005-12-30,,contact99@health.ph,,N/A
 F1003,Facility Bayan 3,Barangay Health Station,6.987654,119.123456,5,15/08/2010,+639178345678,contact45@health.ph,donor funded,
 F1049,Facility Lapulapu 49,Clinic,5.111111,116.999999,10,2003-03-03,,contact49@health.ph,,
